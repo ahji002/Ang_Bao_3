@@ -9,7 +9,7 @@ body {
 
 .red-packet {
     width: 400px;  
-    height: 500px;
+    height: 600px;
     background-color: red;
     border-radius: 30px;
     position: relative;
@@ -63,7 +63,7 @@ body {
 
     .paper {
         width: 260px;
-        height: 350px;
+        height: 450px;
     }
 
     .button {
